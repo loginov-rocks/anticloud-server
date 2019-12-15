@@ -1,0 +1,27 @@
+{
+  "name": "anticloud-server",
+  "version": "0.0.0",
+  "description": "Anticloud Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "start:dev": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loginov-rocks/anticloud-server.git"
+  },
+  "author": "Danila Loginov <danila@loginov.rocks> (https://loginov.rocks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loginov-rocks/anticloud-server/issues"
+  },
+  "homepage": "https://github.com/loginov-rocks/anticloud-server",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

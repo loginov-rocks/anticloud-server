@@ -1,2 +1,1 @@
 # anticloud-server
-Training Repository

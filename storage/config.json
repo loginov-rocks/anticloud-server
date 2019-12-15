@@ -1,0 +1,48 @@
+{
+  "mount": "/sadasd",
+  "directories": [
+    {
+      "id": "movies",
+      "name": "Movies",
+      "directories": [
+        {
+          "id": "classics",
+          "name": "Classics",
+          "directories": []
+        },
+        {
+          "name": "New directory",
+          "id": "62b498f0-1f7c-11ea-bcb1-2d6132a0731f",
+          "directories": [
+            {
+              "name": "New directory",
+              "id": "0816b3a0-1f7d-11ea-b633-1dd680ec53a1",
+              "directories": [
+                {
+                  "name": "Third",
+                  "id": "1030fb40-1f7d-11ea-a3dd-99fc2d95d6d1",
+                  "directories": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New Movies",
+          "id": "1d3b4ca0-1f7d-11ea-a7e1-cf34511d60be",
+          "directories": []
+        }
+      ]
+    },
+    {
+      "id": "shows",
+      "name": "Shows",
+      "directories": []
+    },
+    {
+      "name": "New directory",
+      "id": "17c00f50-1f7c-11ea-8391-c53d83189b08",
+      "directories": []
+    }
+  ]
+}

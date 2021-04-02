@@ -1,5 +1,5 @@
 {
-  "name": "anticloud-server",
+  "name": "@loginov-rocks/anticloud-server",
   "version": "0.0.0",
   "description": "Anticloud Server",
   "main": "index.js",
@@ -13,6 +13,7 @@
   },
   "author": "Danila Loginov <danila@loginov.rocks> (https://loginov.rocks)",
   "license": "MIT",
+  "private": true,
   "bugs": {
     "url": "https://github.com/loginov-rocks/anticloud-server/issues"
   },
